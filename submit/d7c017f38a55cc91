@@ -1,0 +1,5 @@
+: 1
+name: bbot
+version: 0.1.0-a.0.20220831112020.f35f1d9eb54d
+summary: bbot C++ executable
+license: other: proprietary; Not free/open source.
